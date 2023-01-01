@@ -20,11 +20,11 @@ public class TodoModel {
         this.status = status;
     }
 
-    public String getTask() {
+    public String getTodo() {
         return task;
     }
 
-    public void setTask(String task) {
+    public void setTodo(String task) {
         this.task = task;
     }
 }
